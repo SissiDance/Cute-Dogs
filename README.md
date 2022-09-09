@@ -1,3 +1,3 @@
-# Cute-Dogs
+# Cute Dogs
 I love dogs.
-Pictures are collected from public resources.
+/n Pictures are collected from public resources.
